@@ -129,10 +129,3 @@ Through this project, we gained practical experience in:
 The Answer Evaluation System demonstrates how NLP and OCR technologies can be combined to automate the assessment process. By understanding the meaning of student responses rather than relying solely on keywords, the system provides a more accurate and scalable approach to answer evaluation while reducing the workload on educators.
 
 ---
-
-### Author
-
-**Ritika Sinha**
-B.Tech CSE (Data Science)
-SRM Institute of Science and Technology (SRMIST)
-Graduation Year: 2027
