@@ -130,3 +130,9 @@ The Answer Evaluation System demonstrates how NLP and OCR technologies can be co
 
 ---
 
+### Author
+
+**Ritika Sinha**
+B.Tech CSE (Data Science)
+SRM Institute of Science and Technology (SRMIST)
+Graduation Year: 2027
