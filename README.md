@@ -1,6 +1,6 @@
 # Answer Evaluation System using NLP
 
-## Overview
+## Overview:
 
 The Answer Evaluation System is an AI-powered application designed to automate the evaluation of student answers. Traditional answer checking is often time-consuming and subjective. This project uses Natural Language Processing (NLP) techniques to compare student responses with reference answers and generate scores based on semantic understanding rather than simple keyword matching.
 
@@ -8,7 +8,7 @@ The system also supports handwritten answer evaluation through Optical Character
 
 ---
 
-## Problem Statement
+## Problem Statement:
 
 Manual answer evaluation requires significant effort from educators and can sometimes lead to inconsistencies in scoring. Existing automated systems often rely heavily on keyword matching, which may fail to capture the actual meaning of a student's response.
 
@@ -16,7 +16,7 @@ This project aims to create a more intelligent evaluation system that understand
 
 ---
 
-## Features
+## Features:
 
 * Automated evaluation of descriptive answers
 * Semantic similarity-based scoring
@@ -28,7 +28,7 @@ This project aims to create a more intelligent evaluation system that understand
 
 ---
 
-## Technologies Used
+## Technologies Used:
 
 ### Programming Language
 
@@ -52,7 +52,7 @@ This project aims to create a more intelligent evaluation system that understand
 
 ---
 
-## System Workflow
+## System Workflow:
 
 1. Instructor provides a reference answer.
 2. Student submits a typed or handwritten answer.
@@ -65,7 +65,7 @@ This project aims to create a more intelligent evaluation system that understand
 
 ---
 
-## Project Architecture
+## Project Architecture:
 
 ```text
 Student Answer
@@ -91,7 +91,7 @@ Student Answer
 
 ---
 
-## Key Highlights
+## Key Highlights:
 
 * Uses semantic understanding rather than exact keyword matching.
 * Supports both handwritten and digital responses.
@@ -101,7 +101,7 @@ Student Answer
 
 ---
 
-## Future Enhancements
+## Future Enhancements:
 
 * Support for multiple subjects and question types
 * Detailed feedback generation for students
@@ -111,7 +111,7 @@ Student Answer
 
 ---
 
-## Learning Outcomes
+## Learning Outcomes:
 
 Through this project, we gained practical experience in:
 
@@ -124,7 +124,7 @@ Through this project, we gained practical experience in:
 
 ---
 
-## Conclusion
+## Conclusion:
 
 The Answer Evaluation System demonstrates how NLP and OCR technologies can be combined to automate the assessment process. By understanding the meaning of student responses rather than relying solely on keywords, the system provides a more accurate and scalable approach to answer evaluation while reducing the workload on educators.
 
